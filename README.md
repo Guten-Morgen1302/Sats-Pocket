@@ -1,3 +1,5 @@
+# 🏆 Hackathon Competition Submission - Bitcoin 2025 Official Hackathon(https://b25.devpost.com/)
+
 # ⚡ Sats Pocket
 
 > **Sats Pocket** is a cyberpunk-themed Bitcoin micro-wallet that redefines what a Bitcoin wallet can feel like — futuristic, immersive, and built for everyday users.
@@ -92,7 +94,7 @@ MIT
 Made with 💜 by Harsh Patil  
 🌐 [harshdev3d.vercel.app](https://harshdev3d.vercel.app)  
 🐙 [github.com/Guten-Morgen1302](https://github.com/Guten-Morgen1302)  
-📩 Email: `your@email.com`
+📩 Email: `harshabhaypatil@gmail.com`
 
 ---
 
