@@ -1,4 +1,4 @@
-# 🏆 Hackathon Competition Submission - Bitcoin 2025 Official Hackathon(https://b25.devpost.com/)
+# 🏆 Hackathon Competition Submission - [Bitcoin 2025 Official Hackathon](https://b25.devpost.com/)
 
 # ⚡ Sats Pocket
 
